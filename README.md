@@ -1,1 +1,1 @@
-Página: https://daddychulo04.netlify.app/basic/basic
+Página: https://daddychulo04.netlify.app/
